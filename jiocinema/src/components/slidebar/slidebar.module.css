@@ -1,0 +1,25 @@
+.slideEle{
+    display: flex;
+    width:fit-content;
+    list-style-type:none;
+    
+    column-gap:20px;
+    align-items:center;
+    color:white;
+    padding-bottom: 10px ;
+    background-color: #271f14;
+}
+.navbutton{
+    border:2px solid gray;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding:3px 10px;
+    background-color: #524b42;
+    font:bolder;
+    font-size: medium;
+}
+.slide{
+    background-color: #271f14;
+    list-style-type:none;
+    padding:10px 50px;
+}
